@@ -1,3 +1,5 @@
+# Recursively renames all files in a directory
+# from a value to another
 # Author: Alan Camargo
 
 #!/bin/bash
