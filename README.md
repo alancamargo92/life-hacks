@@ -1,4 +1,4 @@
-###SCRIPTS###
+###LIFE HACKS###
 
 Scripts to make life less repetitive and boring.
 Well, all scripts are written for this reason anyway.
